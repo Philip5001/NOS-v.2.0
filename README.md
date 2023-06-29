@@ -1,2 +1,8 @@
 # NOS-v.2.0
-Neon Operating System v.2.0 - improved version of the first version of the NOS
+Neon Operating System v.2.0 - improved version of the first version of the NOS v.1.0
+
+Команды: запустить, перезагрузка, выключить, системная информация, информация, удалить
+
+примеры запуска приложений: запустить $Приложение
+
+примеры удаления приложений: удалить $Приложение
